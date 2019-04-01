@@ -1,0 +1,15 @@
+{
+  "name": "primersprint",
+  "version": "1.0.1",
+  "description": "primer sprint grupal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Los capa 8",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {}
+}
